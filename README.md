@@ -14,4 +14,4 @@ DOMAIN: CYBER SECURITY & ETHICAL HACKING
 MENTOR: NEELA SANTHOSH KUMAR
 
 # OVERVIEW:
-This Python-based penetration testing toolkit provides multiple modules for security testing, including port scanning, brute-force attacks,
+This Python-based penetration testing toolkit is designed to assist cyber security proffessionals for identifying vulnerabilities in network searching and web applications.It provides multiple modules for security testing, including port scanning, brute-force attacks.
